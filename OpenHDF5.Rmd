@@ -181,3 +181,4 @@ plotRGB(RGBStack, stretch='lin')
 more information on functions 
 http://neon-workwithdata.github.io/neon-data-institute-2016/R/open-NEON-hdf5-functions/
 
+added change
